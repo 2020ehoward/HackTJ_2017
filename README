@@ -1,0 +1,6 @@
+This is a data visualization software that takes in excel files with some variable tracked over time and by country, and you can view trends across time and regions.
+A suggested repository for example data is www.gapminder.org/data/, and that will show you the accepted format.
+The data also must be in terms of percentages or out of 100.
+You can adjust the slider to change the viewed year or press the start/stop button to cycle through the years automatically.
+On top, the title of the data is written, if there is one, and if you press the file button you can navigate to more data sources.
+We have included some example data in the data folder
